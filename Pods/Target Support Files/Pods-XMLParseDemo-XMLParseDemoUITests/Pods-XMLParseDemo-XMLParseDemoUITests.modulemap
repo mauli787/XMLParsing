@@ -1,0 +1,6 @@
+framework module Pods_XMLParseDemo_XMLParseDemoUITests {
+  umbrella header "Pods-XMLParseDemo-XMLParseDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
